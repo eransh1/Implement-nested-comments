@@ -1,0 +1,19 @@
+.outerCont{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fafafa;
+}
+.innerCOnt{
+    width: 80%;
+    height: 80%;
+    background-color: #dadada;
+    border-radius: 15px;
+    padding: 2rem;
+}
+.inputCont{
+    display: flex;
+    align-items: center;
+}

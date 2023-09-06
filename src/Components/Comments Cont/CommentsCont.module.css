@@ -1,0 +1,8 @@
+.outerCont{
+    width: 90%;
+    height: max-content;
+    margin-top: 1rem;
+    box-shadow: 0 0 4px #00000040;
+    background-color: white;
+    border-radius: 11px;
+}
